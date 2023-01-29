@@ -6,7 +6,7 @@ Xinhua | Updated: 2023-01-29 08:01 [![img](https://www.chinadaily.com.cn/image_e
 
 This photo taken on Jan. 23, 2023 shows people at a cinema in Xi'an, Northwest China's Shaanxi province. [Xinhua/Li Yibo]
 
-BEIJING -- China has basked in a festive [hustle](http:/  "n.匆忙; 忙碌	[ˈhʌsl]") and bustle as people celebrated the lunar new year of the rabbit with strong consumer sentiments
+BEIJING -- China has basked in a festive [hustle](http:  "n.匆忙; 忙碌	[ˈhʌsl]") and bustle as people celebrated the lunar new year of the rabbit with strong consumer sentiments
 
 During the week-long holiday, which ended on Friday, sales revenue of China's consumption-related sectors rose 12.2 percent from last year's Spring Festival holiday, which ran from Jan 31 to Feb 6, data from the State Taxation Administration showed.
 
