@@ -2,7 +2,9 @@
 
 Xinhua | Updated: 2023-01-29 08:01 [![img](https://www.chinadaily.com.cn/image_e/2020/facebook.png)](https://www.facebook.com/sharer.php?title=Holiday consumption mirrors China's economic vitality in new year&u=https://www.chinadaily.com.cn/a/202301/29/WS63d5b791a31057c47ebab995.html) [![img](https://www.chinadaily.com.cn/image_e/2020/twitter.png)](https://twitter.com/share?text=Holiday consumption mirrors China's economic vitality in new year&url=https://www.chinadaily.com.cn/a/202301/29/WS63d5b791a31057c47ebab995.html) [![img](https://www.chinadaily.com.cn/image_e/2020/linkedin.png)](http://www.linkedin.com/shareArticle?mini=true&title=Holiday consumption mirrors China's economic vitality in new year&url=https://www.chinadaily.com.cn/a/202301/29/WS63d5b791a31057c47ebab995.html) ![img](https://www.chinadaily.com.cn/image_e/2017/more_art.gif)[![img](https://www.chinadaily.com.cn/image_e/2017/app.gif)](https://www.chinadaily.com.cn/mobile/daily.html)
 
-![img](https://img2.chinadaily.com.cn/images/202301/29/63d5b7e2a31057c4b4b3fd0d.jpeg)This photo taken on Jan. 23, 2023 shows people at a cinema in Xi'an, Northwest China's Shaanxi province. [Xinhua/Li Yibo]
+![img](https://img2.chinadaily.com.cn/images/202301/29/63d5b7e2a31057c4b4b3fd0d.jpeg)
+
+This photo taken on Jan. 23, 2023 shows people at a cinema in Xi'an, Northwest China's Shaanxi province. [Xinhua/Li Yibo]
 
 BEIJING -- China has basked in a festive hustle and bustle as people celebrated the lunar new year of the rabbit with strong consumer sentiments.
 
