@@ -8,21 +8,23 @@ This photo taken on Jan. 23, 2023 shows people at a cinema in Xi'an, Northwest C
 
 BEIJING -- China has **basked in** a **festive** **hustle** and **bustle** as people celebrated the lunar new year of the rabbit with strong consumer **sentiments**
 
-During the week-long holiday, which ended on Friday, sales **revenue** of China's consumption-related sectors rose 12.2 percent from last year's Spring Festival holiday, which ran from Jan 31 to Feb 6, data from the State Taxation Administration showed.
+During the week-long holiday, which ended on Friday, sales **revenue** of China's **consumption-related** **sectors** rose 12.2 percent from last year's Spring Festival holiday, which ran from Jan 31 to Feb 6, data from the State Taxation **Administration** showed.
 
 The figure saw an average annual growth of 12.4 percent compared with the Spring Festival holiday in 2019, the pre-COVID-19 period, according to the data.
 
-Many people returned to their hometowns for family reunions during the first Spring Festival holiday after the country optimized its anti-virus response, while others took long-awaited trips for leisure. During the holiday, people also swarmed into cinemas, restaurants, and different types of tourist attractions, satisfying their pent-up consuming desire.
+Many people returned to their hometowns for family reunions during the first Spring Festival holiday after the **country** **optimized** its **anti-virus** response, while others took **long-awaited** trips for leisure. During the holiday, people also **swarmed** into cinemas, restaurants, and different types of tourist attractions, satisfying their **pent-up** consuming desire.
 
 MOVIEGOERS ARE BACK
 
-China's cinemas welcomed crowds of moviegoers with a cluster of highly anticipated blockbusters on offer during this year's Spring Festival holiday. In the period, 129 million tickets were sold, generating a whopping revenue of 6.76 billion yuan (about $998.49 million), up 11.89 percent from the same period of 2022.
+China's cinemas welcomed crowds of **moviegoers** with a cluster of highly **anticipated** **blockbusters** on offer during this year's Spring Festival holiday. In the period, 129 million tickets were sold, generating a **whopping** revenue of 6.76 billion yuan (about $998.49 million), up 11.89 percent from the same period of 2022.
 
-The earnings made this year's holiday the second highest-grossing to date, sending a strong signal of the robust recovery of China's cultural and tourism industry this spring.
+The earnings made this year's holiday the second highest-**grossing** to date, sending a strong signal of the **robust** **recovery** of China's cultural and tourism industry this spring.
 
-Rao Shuguang, president of the China Film Critics Association, said the movie frenzy made him feel that Chinese films will be off to "a new start towards a better future" after being hampered by COVID-19 for years.
+Rao Shuguang, president of the China Film Critics Association, said the movie frenzy made him feel that Chinese films will be off to "a new start towards a better future" after being **hampered** by COVID-19 for years.
 
-![img](https://img2.chinadaily.com.cn/images/202301/29/63d5b7e2a31057c4b4b3fd0f.jpeg)In this aerial photo, tourists visit the Ice-Snow World theme park in Harbin, Northeast China's Heilongjiang province, Jan 25, 2023. [Xinhua/Wang Jianwei]
+![img](https://img2.chinadaily.com.cn/images/202301/29/63d5b7e2a31057c4b4b3fd0f.jpeg)
+
+In this aerial photo, tourists visit the Ice-Snow World theme park in Harbin, Northeast China's Heilongjiang province, Jan 25, 2023. [Xinhua/Wang Jianwei]
 
 TRAVELERS HIT THE ROAD
 
@@ -74,11 +76,67 @@ According to the Chasing International Economic Institute, the per capita consum
 
 "We expect China's economic growth in 2023 to be much higher than the previous year, mainly driven by consumption," said Robin Xing, chief China economist with Morgan Stanley.
 
-|          | 词性 | 释义                         | 发音         | 备注      |
-| -------- | ---- | ---------------------------- | ------------ | --------- |
-| vitality | n.   | 生命力;                      | [vaɪˈtæləti] |           |
-| bask     | v.   | （舒适地）晒太阳，取暖; 沉浸 | [bɑːsk]      | basked in |
-|          |      |                              |              |           |
+|                     | 词性 | 释义                                        | 发音                 | 备注             |
+| ------------------- | ---- | ------------------------------------------- | -------------------- | ---------------- |
+| vitality            | n.   | 生命力;                                     | [vaɪˈtæləti]         |                  |
+| bask                | v.   | （舒适地）晒太阳，取暖; 沉浸                | [bɑːsk]              | basked in        |
+| festive             | adj. | 节日的;                                     | [ˈfestɪv]            |                  |
+| hustle              | n.   | 忙碌                                        | [ˈhʌsl]              |                  |
+| bustle              | n.   | 喧嚣;                                       | [ˈbʌsl]              |                  |
+| sentiment           | n.   | 情绪                                        | [ˈsɛntɪmənts]        | sentiments 复数  |
+| revenue             | n.   | 收入;                                       | [ˈrevənjuː]          |                  |
+| sector              | n.   | 部门;                                       | [ˈsektə(r)]          |                  |
+| administration      | n.   | 管理; (企业、学校等的)行政;                 | [ədˌmɪnɪˈstreɪʃn]    |                  |
+| consumption-related |      | 消费相关                                    |                      |                  |
+| figure              | n.   | 图形; (代表数量，尤指官方资料中的)数字;     | [ˈfɪɡə(r)]           |                  |
+| optimize            | v.   | 优化                                        | [ˈɒptɪmaɪz]          |                  |
+| country             | n.   | 国家                                        |                      |                  |
+| anti-virus          |      | 抗疫                                        |                      |                  |
+| pent                | adj. | 被关闭的，郁积的;                           |                      | pent-up 被压抑的 |
+| long-awaited        |      | 期待已久的                                  |                      |                  |
+| swarm               | vi.  | 成群地                                      | [swɔːm]              | swarmed into     |
+| moviegoers          |      | 常看电影的人;                               |                      |                  |
+| anticipated         | adj. | 预期的;                                     | [ænˈtɪsɪpeɪtɪd]      |                  |
+| blockbusters        | n.   | 一鸣惊人的事物; (尤指)非常成功的书(或电影); | [ˈblɒkˌbʌstəz]       |                  |
+| whopping            | adj. | 巨大的;                                     | [ˈwɒpɪŋ]             |                  |
+| robust              | adj. | 强劲的;                                     | [rəʊˈbʌst]           |                  |
+| recovery            | n.   | 恢复                                        | [rɪˈkʌvəri]          |                  |
+| grossing            | v.   | 总收入为                                    | [ˈɡrəʊsɪŋ]           |                  |
+| frenzy              | n.   | 狂热;                                       | [ˈfrenzi]            |                  |
+| hamper              | v.   | 妨碍;                                       | [ˈhæmpəd]            |                  |
+| explosive           | adj. | 爆炸的; 易爆炸的;                           | [ɪkˈspləʊsɪv]        |                  |
+| zeal                | n.   | 热情; 激情;                                 | [ziːl]               |                  |
+| reservation         | n.   | 预订;                                       | [ˌrezəˈveɪʃn]        |                  |
+| skyrocket           | v.   | 飞涨; 猛涨                                  |                      |                  |
+| quadrupled          | v.   | (使)变为四倍;                               | [kwɒˈdruːpld]        |                  |
+| Fliggy              |      | 飞猪                                        |                      |                  |
+| respectively        | adv. | 分别地; 分别;                               | [rɪˈspektɪvli]       |                  |
+| soar                | vi.  | 猛增;                                       | [sɔː(r)]             |                  |
+| exceed              | vt.  | 超过                                        | [ɪkˈsiːd]            |                  |
+| surged              | v.   | 激增;                                       | [sɜːdʒ]              |                  |
+| boost               | vt.  | 提升                                        | [buːst]              | boosted          |
+| popularity          | n.   | 人气                                        | ˌ[pɒpjuˈlærəti]      |                  |
+| Ctrip               |      | 携程                                        |                      |                  |
+| rapidly             | adv. | 迅速地;                                     | ['ræpɪdlɪ]           |                  |
+| embrace             | v.   | 抱; 拥抱， 迎来                             | [ɪmˈbreɪs]           |                  |
+| catering            | n    | 餐饮                                        | [ˈkeɪtərɪŋ]          |                  |
+| mounting            | adj. | 增长的;                                     | [ˈmaʊntɪŋ]           |                  |
+| enthusiasm          | n.   | 热情;                                       | [ɪnˈθjuːziæzəm]      |                  |
+| SPREE               | n.   | (常指过分)玩乐，                            | [spriː]              |                  |
+| retail              | n.   | 零售，零卖;                                 | [ˈriːteɪl , rɪˈteɪl] |                  |
+| semi-cooked food    |      | 半熟的食品                                  |                      |                  |
+| vigor               | n.   | 活力                                        | [ˈvɪgə]              |                  |
+| underline           | v    | 强调                                        |                      |                  |
+| pin                 | vt.  | （用大头钉等）固定                          | [pɪn]                |                  |
+| revival             | n.   | 复苏;                                       | [rɪˈvaɪvl]           |                  |
+| ease                | v.   | 缓解; 减轻;                                 | [iːz]                |                  |
+| further             | adj. | 进一步的;                                   | [ˈfɜːðə(r)]          |                  |
+| unleash             | vt.  | 发泄; 突然释放                              | [ʌnˈliːʃ]            |                  |
+| propel              | vt.  | 推进; 推动;                                 | [prəˈpel]            |                  |
+| turnaround          | n.   | ; 转机                                      |                      |                  |
+| expenditure         | n.   | 支出                                        | [ɪkˈspendɪtʃə(r)]    |                  |
+| capita              | n.   | 人均                                        | [ˈkæpɪtə]            |                  |
+|                     |      |                                             |                      |                  |
 
 
 
