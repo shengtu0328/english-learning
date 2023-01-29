@@ -6,9 +6,9 @@ Xinhua | Updated: 2023-01-29 08:01 [![img](https://www.chinadaily.com.cn/image_e
 
 This photo taken on Jan. 23, 2023 shows people at a cinema in Xi'an, Northwest China's Shaanxi province. [Xinhua/Li Yibo]
 
-BEIJING -- China has basked in a festive [hustle](1  "n.匆忙; 忙碌	[ˈhʌsl]") and bustle as people celebrated the lunar new year of the rabbit with strong consumer sentiments
+BEIJING -- China has **basked in** a **festive** **hustle** and **bustle** as people celebrated the lunar new year of the rabbit with strong consumer **sentiments**
 
-During the week-long holiday, which ended on Friday, sales revenue of China's consumption-related sectors rose 12.2 percent from last year's Spring Festival holiday, which ran from Jan 31 to Feb 6, data from the State Taxation Administration showed.
+During the week-long holiday, which ended on Friday, sales **revenue** of China's consumption-related sectors rose 12.2 percent from last year's Spring Festival holiday, which ran from Jan 31 to Feb 6, data from the State Taxation Administration showed.
 
 The figure saw an average annual growth of 12.4 percent compared with the Spring Festival holiday in 2019, the pre-COVID-19 period, according to the data.
 
@@ -73,3 +73,12 @@ Wen Bin, chief economist with China Minsheng Bank, said that warming demand at h
 According to the Chasing International Economic Institute, the per capita consumption expenditure in China is expected to grow 8 to 12 percent from a year ago in 2023, while total retail sales of consumer goods will expand 7 to 11 percent year on year.
 
 "We expect China's economic growth in 2023 to be much higher than the previous year, mainly driven by consumption," said Robin Xing, chief China economist with Morgan Stanley.
+
+|          | 词性 | 释义                         | 发音         | 备注      |
+| -------- | ---- | ---------------------------- | ------------ | --------- |
+| vitality | n.   | 生命力;                      | [vaɪˈtæləti] |           |
+| bask     | v.   | （舒适地）晒太阳，取暖; 沉浸 | [bɑːsk]      | basked in |
+|          |      |                              |              |           |
+
+
+
