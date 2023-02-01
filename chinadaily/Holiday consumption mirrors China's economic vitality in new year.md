@@ -10,7 +10,7 @@ BEIJING -- China has **basked in** a **festive** **hustle** and **bustle** as pe
 
 During the week-long holiday, which ended on Friday, sales **revenue** of China's **consumption-related** **sectors** rose 12.2 percent from last year's Spring Festival holiday, which ran from Jan 31 to Feb 6, data from the State Taxation **Administration** showed.
 
-The figure saw an average annual growth of 12.4 percent compared with the Spring Festival holiday in 2019, the pre-COVID-19 period, according to the data.
+The **figure** saw an average annual growth of 12.4 percent compared with the Spring Festival holiday in 2019, the pre-COVID-19 period, according to the data.
 
 Many people returned to their hometowns for family reunions during the first Spring Festival holiday after the **country** **optimized** its **anti-virus** response, while others took **long-awaited** trips for leisure. During the holiday, people also **swarmed** into cinemas, restaurants, and different types of tourist attractions, satisfying their **pent-up** consuming desire.
 
@@ -104,6 +104,7 @@ According to the Chasing International Economic Institute, the per **capita** co
 | grossing            | v.    | 总收入为                                    | [ˈɡrəʊsɪŋ]           |                  |
 | frenzy              | n.    | 狂热;                                       | [ˈfrenzi]            |                  |
 | hamper              | v.    | 妨碍;                                       | [ˈhæmpəd]            |                  |
+| aerial              | adj.  | 空中的;                                     | [ˈeəriəl]            |                  |
 | explosive           | adj.  | 爆炸的; 易爆炸的;                           | [ɪkˈspləʊsɪv]        |                  |
 | zeal                | n.    | 热情; 激情;                                 | [ziːl]               |                  |
 | reservation         | n.    | 预订;                                       | [ˌrezəˈveɪʃn]        |                  |
