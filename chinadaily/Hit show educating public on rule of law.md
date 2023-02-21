@@ -32,41 +32,41 @@ It educated viewers to have a positive attitude on seeking help through legal **
 
 Zhi said that the positive sentiment created by the authorities' crackdown on organized crime is an important reason for the drama's success. This has also **promoted** the idea of the rule of law, she added.
 
-|                |       |                                |                  |                   |
-| -------------- | ----- | ------------------------------ | ---------------- | ----------------- |
-| knockout       | n.    | 击败对手的一击                 |                  |                   |
-| organized      | adj。 | 有组织的                       |                  |                   |
-| rights         | n.    | 权利;                          |                  |                   |
-| campaign       | n.    | 运动                           |                  | 五四运动          |
-| rectification  | n.    | 整顿                           | [ˌrektɪfɪˈkeɪʃn] |                   |
-| demise         | n.    | 消亡; 死亡                     | [dɪˈmaɪz]        |                   |
-| underworld     | n.    | 黑社会;                        |                  |                   |
-| episode        | n.    | 电视剧一集;                    | [ˈepɪsəʊd]       |                   |
-| applauded      | v.    | 鼓掌; 称赞;                    | [əˈplɔːd]        |                   |
-| plotline       | n.    | 主要情节;                      |                  |                   |
-| authorities    | n.    | 权力; 威权; 当权(地位);        | [ɔːˈθɒrɪtiz]     |                   |
-| nationwide     | adj.  | 全国性的;                      |                  |                   |
-| commission     | n.    | 委员会;                        | [kəˈmɪʃn]        |                   |
-| committee      |       |                                |                  |                   |
-| mafia-like     |       | 黑手党;                        |                  |                   |
-| detain         | vt.   | 扣留; 拘留;                    | [dɪˈteɪn]        |                   |
-| suspects       | n.    | 嫌疑人                         |                  |                   |
-| crackdown      | n.    | 镇压;                          |                  |                   |
-| involved       | adj.  | 涉及的                         |                  |                   |
-| discipline     | n.    | 纪律;训练; 训导;               | [ˈdɪsəplɪn]      |                   |
-| officially     | adv.  | 正式地; 官方地;                |                  |                   |
-| clout          | n.    | 影响力; 势力;                  | [klaʊt]          |                   |
-| affairs        | n.    | 公共事务; 政治事务; 事件; 事情 |                  |                   |
-| procuratorates | n.    | 检察院;                        |                  |                   |
-| root out       |       | 根除                           |                  |                   |
-| undermine      | vt.   | 破坏;                          | [ˌʌndəˈmaɪn]     |                   |
-| resonate       | v.    | 产生共鸣;                      | ˈ[ˈrezəneɪt]     | resonate ... with |
-| avenues        | n.    | (城镇的)大街;途径; 手段;       | [ˈævɪnjuːz]      |                   |
-| deterred       | v.    | 制止; 阻止;                    | [dɪˈtɜːd]        |                   |
-| hatred         | n.    | 仇恨; 憎恨; 厌恶;              | [ˈheɪtrɪd]       |                   |
-| academy        | n.    | 学院; 专科院校; (艺术、文学    | [əˈkædəmi]       |                   |
-| promote        | v.    | 促进; 提升;                    | [prəˈməʊt]       |                   |
-|                |       |                                |                  |                   |
-|                |       |                                |                  |                   |
-|                |       |                                |                  |                   |
+|                |       |                                |                  |                     |
+| -------------- | ----- | ------------------------------ | ---------------- | ------------------- |
+| knockout       | n.    | 击败对手的一击                 |                  |                     |
+| organized      | adj。 | 有组织的                       |                  |                     |
+| rights         | n.    | 权利;                          |                  |                     |
+| campaign       | n.    | 运动                           |                  | 五四运动            |
+| rectification  | n.    | 整顿                           | [ˌrektɪfɪˈkeɪʃn] |                     |
+| demise         | n.    | 消亡; 死亡                     | [dɪˈmaɪz]        | rise and **demise** |
+| underworld     | n.    | 黑社会;                        |                  |                     |
+| episode        | n.    | 电视剧一集;                    | [ˈepɪsəʊd]       |                     |
+| applauded      | v.    | 鼓掌; 称赞;                    | [əˈplɔːd]        |                     |
+| plotline       | n.    | 主要情节;                      |                  |                     |
+| authorities    | n.    | 权力; 威权; 当权(地位);        | [ɔːˈθɒrɪtiz]     |                     |
+| nationwide     | adj.  | 全国性的;                      |                  |                     |
+| commission     | n.    | 委员会;                        | [kəˈmɪʃn]        |                     |
+| committee      |       |                                |                  |                     |
+| mafia-like     |       | 黑手党;                        |                  |                     |
+| detain         | vt.   | 扣留; 拘留;                    | [dɪˈteɪn]        |                     |
+| suspects       | n.    | 嫌疑人                         |                  |                     |
+| crackdown      | n.    | 镇压;                          |                  |                     |
+| involved       | adj.  | 涉及的                         |                  |                     |
+| discipline     | n.    | 纪律;训练; 训导;               | [ˈdɪsəplɪn]      |                     |
+| officially     | adv.  | 正式地; 官方地;                |                  |                     |
+| clout          | n.    | 影响力; 势力;                  | [klaʊt]          |                     |
+| affairs        | n.    | 公共事务; 政治事务; 事件; 事情 |                  |                     |
+| procuratorates | n.    | 检察院;                        |                  |                     |
+| root out       |       | 根除                           |                  |                     |
+| undermine      | vt.   | 破坏;                          | [ˌʌndəˈmaɪn]     |                     |
+| resonate       | v.    | 产生共鸣;                      | ˈ[ˈrezəneɪt]     | resonate ... with   |
+| avenues        | n.    | (城镇的)大街;途径; 手段;       | [ˈævɪnjuːz]      |                     |
+| deterred       | v.    | 制止; 阻止;                    | [dɪˈtɜːd]        |                     |
+| hatred         | n.    | 仇恨; 憎恨; 厌恶;              | [ˈheɪtrɪd]       |                     |
+| academy        | n.    | 学院; 专科院校; (艺术、文学    | [əˈkædəmi]       |                     |
+| promote        | v.    | 促进; 提升;                    | [prəˈməʊt]       |                     |
+|                |       |                                |                  |                     |
+|                |       |                                |                  |                     |
+|                |       |                                |                  |                     |
 
